@@ -93,6 +93,14 @@ python src/webcam_detector.py
 # run dashboard
 streamlit run src/dashboard.py
 
+## 📥 Trained Model
+
+Due to GitHub's file size limitations, the trained model files are not stored directly in this repository.
+
+Download the models and place them inside the `models/` directory before running the application.
+
+link: https://drive.google.com/drive/folders/1CS9GuffQndwrLNGK7Thg3RJGnR4Ed9T-?usp=sharing
+
 # features
 - emotion detection from webcam
 - live face tracking
